@@ -46,3 +46,20 @@ This project explores the Netflix Movies and TV Shows dataset from Kaggle using 
 - Remove duplicate records.
 - Fix data types where required.
 - Perform exploratory data analysis and create visualizations.
+
+
+
+## Day 71 - Data Cleaning & Analysis #
+
+### Data Cleaning
+- Removed duplicate records.
+- Handled missing values.
+- Converted "date_added" to datetime.
+- Saved the cleaned dataset.
+
+### Key Findings
+- United States has the highest number(2818) of Netflix titles.
+- 2018 has the highest number(1147) of released titles.
+- Movies(6131) are more common than TV Shows.
+- TV-MA(3207) is the most common content rating.
+- Rajiv Chilaka has directed the highest number(19) of Netflix titles.

@@ -28,3 +28,5 @@ print(df.duplicated().sum())
 
 #check country column's first 10 rows
 print(df["country"].head(10))
+
+
