@@ -15,7 +15,6 @@ This project explores the Netflix Movies and TV Shows dataset from Kaggle using 
 
 - Python
 - Pandas
-- NumPy
 - Matplotlib
 - Seaborn
 
